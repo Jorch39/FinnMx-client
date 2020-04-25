@@ -22,7 +22,8 @@
 
 ## Getting Started
 
-- `npm install`: Install dependencies
+- `APP Mobile First`
+
 - `npm run dev`: Run server
 - `npm start`: Run client
 
@@ -35,6 +36,8 @@
 ### Backend
 - `MongoDB, ExpressJS, NodeJS, JWT`
 
+### DataScience
+- `Machine Learning model, decision tree, python`
 
 ## How to use
 
@@ -50,7 +53,7 @@
 <img src="https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/76F4058F-7A65-4CA8-8440-8ED6CCCE334B_i7wppg.png" alt="" width="300">
 <br>
 
-- The app will send you your financial recommendation
+- The app will send you your investment recommendation
 
 <img src="https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/8DA30760-041E-43C2-95BF-BD0096BB8DA0_qo5bje.png" alt="" width="300">
 <br>
