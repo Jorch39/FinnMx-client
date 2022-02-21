@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align="center">FinnMx te ayuda a tener mejor visibilidad de instrumentos financieros donde puedes invertir tu dinero.</h4> <h4 align="center">Utiliza Machine Learning para poder recomendarte la opción que mejor se adecue de acuerdo a tu información. financiera.</h4>
+<h4 align="center">FinnMx te ayuda a tener mejor visibilidad de instrumentos financieros donde puedes invertir tu dinero.</h4> <h4 align="center">Utiliza Machine Learning para poder recomendarte la opción que mejor se adecue de acuerdo a tu información financiera.</h4>
 
 <br>
 <p align="center">
